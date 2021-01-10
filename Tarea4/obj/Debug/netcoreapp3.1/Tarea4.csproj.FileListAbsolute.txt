@@ -1,0 +1,26 @@
+D:\derec\Documents\Itla\Clases\Programacion I\Tarea4\Tarea4\bin\Debug\netcoreapp3.1\Tarea4.exe
+D:\derec\Documents\Itla\Clases\Programacion I\Tarea4\Tarea4\bin\Debug\netcoreapp3.1\Tarea4.deps.json
+D:\derec\Documents\Itla\Clases\Programacion I\Tarea4\Tarea4\bin\Debug\netcoreapp3.1\Tarea4.runtimeconfig.json
+D:\derec\Documents\Itla\Clases\Programacion I\Tarea4\Tarea4\bin\Debug\netcoreapp3.1\Tarea4.runtimeconfig.dev.json
+D:\derec\Documents\Itla\Clases\Programacion I\Tarea4\Tarea4\bin\Debug\netcoreapp3.1\Tarea4.dll
+D:\derec\Documents\Itla\Clases\Programacion I\Tarea4\Tarea4\bin\Debug\netcoreapp3.1\Tarea4.pdb
+D:\derec\Documents\Itla\Clases\Programacion I\Tarea4\Tarea4\obj\Debug\netcoreapp3.1\Tarea4.csprojAssemblyReference.cache
+D:\derec\Documents\Itla\Clases\Programacion I\Tarea4\Tarea4\obj\Debug\netcoreapp3.1\Tarea4.AssemblyInfoInputs.cache
+D:\derec\Documents\Itla\Clases\Programacion I\Tarea4\Tarea4\obj\Debug\netcoreapp3.1\Tarea4.AssemblyInfo.cs
+D:\derec\Documents\Itla\Clases\Programacion I\Tarea4\Tarea4\obj\Debug\netcoreapp3.1\Tarea4.csproj.CoreCompileInputs.cache
+D:\derec\Documents\Itla\Clases\Programacion I\Tarea4\Tarea4\obj\Debug\netcoreapp3.1\Tarea4.dll
+D:\derec\Documents\Itla\Clases\Programacion I\Tarea4\Tarea4\obj\Debug\netcoreapp3.1\Tarea4.pdb
+D:\derec\Documents\Itla\Clases\Programacion I\Tarea4\Tarea4\obj\Debug\netcoreapp3.1\Tarea4.genruntimeconfig.cache
+D:\derec\Documents\Itla\Clases\Cuatrimestre 3\Programacion I\Tarea4\Tarea4\bin\Debug\netcoreapp3.1\Tarea4.exe
+D:\derec\Documents\Itla\Clases\Cuatrimestre 3\Programacion I\Tarea4\Tarea4\bin\Debug\netcoreapp3.1\Tarea4.deps.json
+D:\derec\Documents\Itla\Clases\Cuatrimestre 3\Programacion I\Tarea4\Tarea4\bin\Debug\netcoreapp3.1\Tarea4.runtimeconfig.json
+D:\derec\Documents\Itla\Clases\Cuatrimestre 3\Programacion I\Tarea4\Tarea4\bin\Debug\netcoreapp3.1\Tarea4.runtimeconfig.dev.json
+D:\derec\Documents\Itla\Clases\Cuatrimestre 3\Programacion I\Tarea4\Tarea4\bin\Debug\netcoreapp3.1\Tarea4.dll
+D:\derec\Documents\Itla\Clases\Cuatrimestre 3\Programacion I\Tarea4\Tarea4\bin\Debug\netcoreapp3.1\Tarea4.pdb
+D:\derec\Documents\Itla\Clases\Cuatrimestre 3\Programacion I\Tarea4\Tarea4\obj\Debug\netcoreapp3.1\Tarea4.csprojAssemblyReference.cache
+D:\derec\Documents\Itla\Clases\Cuatrimestre 3\Programacion I\Tarea4\Tarea4\obj\Debug\netcoreapp3.1\Tarea4.AssemblyInfoInputs.cache
+D:\derec\Documents\Itla\Clases\Cuatrimestre 3\Programacion I\Tarea4\Tarea4\obj\Debug\netcoreapp3.1\Tarea4.AssemblyInfo.cs
+D:\derec\Documents\Itla\Clases\Cuatrimestre 3\Programacion I\Tarea4\Tarea4\obj\Debug\netcoreapp3.1\Tarea4.csproj.CoreCompileInputs.cache
+D:\derec\Documents\Itla\Clases\Cuatrimestre 3\Programacion I\Tarea4\Tarea4\obj\Debug\netcoreapp3.1\Tarea4.dll
+D:\derec\Documents\Itla\Clases\Cuatrimestre 3\Programacion I\Tarea4\Tarea4\obj\Debug\netcoreapp3.1\Tarea4.pdb
+D:\derec\Documents\Itla\Clases\Cuatrimestre 3\Programacion I\Tarea4\Tarea4\obj\Debug\netcoreapp3.1\Tarea4.genruntimeconfig.cache

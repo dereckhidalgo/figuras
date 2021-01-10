@@ -1,0 +1,6 @@
+LOS DATOS GUARDADOS SE ENCUENTRAN EN LA SIGUIENTE RUTA:
+
+Carpeta bin(Ubicada más arriba)
+Carpeta debug(Dentro de la carpeta bin)
+Carpeta Netcore(Dentro de la carpeta debug)
+Archivo txt, llamado Datos.txt
